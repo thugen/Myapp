@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+android {
+    signingConfigs {
+        config {
+            keyAlias 'thugen'
+            keyPassword '98552300'
+            storeFile file('C:/Users/Win/Documents/key.jks')
+            storePassword '98552300'
+        }
+    }
+    compileSdkVersion 19
+    buildToolsVersion "24.0.3"
+    defaultConfig {
+        applicationId "com.andrew.systemservice"
+        minSdkVersion 10
+        targetSdkVersion 10
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            debuggable true
+            jniDebuggable false
+            signingConfig signingConfigs.config
+            renderscriptDebuggable false
+        }
+    }
+}
+
+dependencies {
+}
