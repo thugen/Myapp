@@ -1,7 +1,0 @@
-#Sat Nov 12 16:41:50 CST 2016
-base.0=C\:\\Users\\Win\\StudioProjects\\PhoneListener-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_46ebf52840c489e2d929fd1f6613b23bdb1a0840
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\Win\\StudioProjects\\PhoneListener-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e0fd9d5636f476fe14e8617954c9467ab068dd6e\\classes.dex
-base.1=C\:\\Users\\Win\\StudioProjects\\PhoneListener-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e0fd9d5636f476fe14e8617954c9467ab068dd6e
-file.0=C\:\\Users\\Win\\StudioProjects\\PhoneListener-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_46ebf52840c489e2d929fd1f6613b23bdb1a0840\\classes.dex
